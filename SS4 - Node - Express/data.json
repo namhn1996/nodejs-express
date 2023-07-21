@@ -1,0 +1,25 @@
+{
+  "users": [
+    { "name": "Nguyen", "address": "Ha Noi", "phone": "123" },
+    { "name": "Meo", "address": "Ha Nam", "phone": "1234" },
+    { "name": "Cho", "address": "Tokyo", "phone": "1235" },
+    {
+      "name": "caotv",
+      "age": "26",
+      "address": "Ninh Bình",
+      "email": "caotv@gmail.com"
+    },
+    {
+      "name": "caotv",
+      "age": "26",
+      "address": "Ninh Bình",
+      "email": "caotv@gmail.com"
+    },
+    {
+      "name": "caotv",
+      "age": "26",
+      "address": "Ninh Bình",
+      "email": "caotv@gmail.com"
+    }
+  ]
+}
